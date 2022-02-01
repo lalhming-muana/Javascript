@@ -1,3 +1,4 @@
 # Javascript
 
-Simple button counter using JS function 
+This repo contains simple Javascript
+Examples. 
