@@ -21,3 +21,4 @@ console.log(" this is a new array\n");
 for(x in a){
     console.log(a[x]);
 }
+
